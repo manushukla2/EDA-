@@ -28,7 +28,7 @@ The Random Forest algorithm achieved the highest accuracy of 96.4%. It was selec
 
 ## Instructions
 To run the project:
-1. Clone the repository: `git clone https://github.com/your_username/obesity-level-prediction.git`
+1. Clone the repository: `git clone https://github.com/manushukla2/obesity-level-prediction.git`
 2. Navigate to the project directory: `cd obesity-level-prediction`
 3. Open the `obesity_prediction.ipynb` notebook in Jupyter or any compatible environment.
 4. Follow the instructions in the notebook to execute the code and reproduce the results.
